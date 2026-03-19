@@ -35,7 +35,7 @@ Tech Stack :
 
 ![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
 
-Click here to play ! [https://jashbhai635.github.io/2048-Gridx/]
+Click here to play ! [https://jashbhai635.github.io/2048-GridX/]
 
 [![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-blue)](https://jashbhai634.itch.io/2048-Gridx)
 
