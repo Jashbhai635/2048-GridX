@@ -37,7 +37,7 @@ Game Stack :
 
 Click here to play ! [https://jashbhai635.github.io/2048-gridx/]
 
-[![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-blue)](https://jashbhai634.itch.io/2048-gridx)
+[![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-blue)](https://jashbhai634.itch.io/2048-Gridx)
 
 ---
 Copyright © 2026 CodeMatrix Studio. All rights reserved.
