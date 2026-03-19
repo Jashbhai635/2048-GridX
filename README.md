@@ -4,6 +4,7 @@
 
 'Merge the Future'
 
+---
 [![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-blue)](https://jashbhai634.itch.io/2048-gridx)
 
 Step into a next-generation twist on the classic 2048 experience. 2048: GridX blends clean strategy with neon visuals, reactive sound design, and powerful new mechanics that push your thinking beyond simple merging.
