@@ -27,7 +27,7 @@ Only strategy. Merge with precision.
 Plan with purpose. Win with intelligence
 
 ---
-Game Stack :
+Tech Stack :
 
 ![HTML5](https://img.shields.io/badge/Engine-HTML5-orange)
 
@@ -35,7 +35,7 @@ Game Stack :
 
 ![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
 
-Click here to play ! [https://jashbhai635.github.io/2048-gridx/]
+Click here to play ! [https://jashbhai635.github.io/2048-Gridx/]
 
 [![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-blue)](https://jashbhai634.itch.io/2048-Gridx)
 
