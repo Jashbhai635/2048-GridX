@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="logo.png" alt="Project Logo" width="200">
-</p>
+![Project Logo](logo.png)
 
 # 2048-GridX
 
 'Merge the Future'
 
-[![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-red)](https://jashbhai634.itch.io/2048-gridx)
+[![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-blue)](https://jashbhai634.itch.io/2048-gridx)
 
 Step into a next-generation twist on the classic 2048 experience. 2048: GridX blends clean strategy with neon visuals, reactive sound design, and powerful new mechanics that push your thinking beyond simple merging.
 
@@ -38,7 +36,7 @@ Game Stack :
 
 Click here to play ! [https://jashbhai635.github.io/2048-gridx/]
 
-[![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-red)](https://jashbhai634.itch.io/2048-gridx)
+[![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-blue)](https://jashbhai634.itch.io/2048-gridx)
 
 ---
 Copyright © 2026 CodeMatrix Studio. All rights reserved.
