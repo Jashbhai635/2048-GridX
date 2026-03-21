@@ -37,6 +37,8 @@ Tech Stack :
 
 Click here to play ! [https://jashbhai635.github.io/2048-GridX/]
 
+This game is best experienced on itch.io
+
 [![Play 2048-GridX](https://img.shields.io/badge/Play%202048--GridX-itch.io-blue)](https://jashbhai634.itch.io/2048-Gridx)
 
 ---
